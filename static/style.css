@@ -1,0 +1,17 @@
+#wrapper {
+	width: 400px;
+	height: 400px;
+	background-color: #FCEADD;
+	margin: 30px 30px 30px 60px;
+	padding: 20px;
+}
+
+.form {
+	text-align: right;
+	margin: 20px;
+	padding: 20px;
+}
+
+textarea {
+    margin: 20px 20px 20px -5px;
+}
